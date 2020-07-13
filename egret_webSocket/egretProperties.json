@@ -18,6 +18,9 @@
     {
       "name": "dragonBones"
     },
+     {
+			"name": "socket"
+		},
     {
       "name": "game"
     },
